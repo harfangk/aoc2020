@@ -24,6 +24,8 @@ dependencies:
 - containers
 - bytestring
 - array
+- split
+- parsec
 
 library:
   source-dirs: src
